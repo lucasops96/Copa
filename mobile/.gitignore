@@ -9,7 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-src/contexts
+src/contexts/AuthContext.tsx
 
 # macOS
 .DS_Store
