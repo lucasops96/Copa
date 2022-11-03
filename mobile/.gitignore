@@ -9,8 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+src/contexts
 
 # macOS
 .DS_Store
 
-contexts
